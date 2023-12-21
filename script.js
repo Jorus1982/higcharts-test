@@ -9,10 +9,10 @@ created by <a href="https://handsondataviz.org/" style="color: blue">HandsOnData
 with <a href="https://www.highcharts.com/" style="color: blue">Highcharts</a>';
 
 // x-axis label and label in tooltip
-var X_AXIS = 'Year';
+var X_AXIS = 'mesiac';
 
 // y-axis label and label in tooltip
-var Y_AXIS = 'Passengers';
+var Y_AXIS = 'počet';
 
 // Should y-axis start from 0? `true` or `false`
 var BEGIN_AT_ZERO = true;
